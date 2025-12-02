@@ -18,16 +18,16 @@ This system helps marketers, designers, and advertisers generate content quickly
 
 **🎯 Key Features**
 
-✔️ Multi-modal content generation
-✔️ Multiple ad copy variations per brief
-✔️ AI-generated image prompts
-✔️ Integration with image generation APIs
-✔️ Automatic ranking of combinations
-✔️ Coherence scoring between text + image
-✔️ Packaged ZIP output containing assets
-✔️ Developer-friendly modular pipeline
-✔️ FastAPI backend support
-✔️ Ready for A/B testing workflows
+✔️ Multi-modal content generation.
+✔️ Multiple ad copy variations per brief.
+✔️ AI-generated image prompts.
+✔️ Integration with image generation APIs.
+✔️ Automatic ranking of combinations.
+✔️ Coherence scoring between text + image.
+✔️ Packaged ZIP output containing assets.
+✔️ Developer-friendly modular pipeline.
+✔️ FastAPI backend support.
+✔️ Ready for A/B testing workflows.
 
 **🛠️ Tech Stack**
 
@@ -54,3 +54,4 @@ Building this multi-modal system improved my skills in:
 
 Contributions and suggestions are welcome!
 Feel free to open issues or submit PRs.
+
