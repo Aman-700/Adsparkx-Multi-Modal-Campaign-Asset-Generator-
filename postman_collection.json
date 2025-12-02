@@ -1,0 +1,35 @@
+{
+  "info": {
+    "name": "Campaign Generator API",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Generate Campaign",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "url": {
+          "raw": "http://localhost:8000/generate",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "8000",
+          "path": [
+            "generate"
+          ]
+        },
+        "body": {
+          "mode": "raw",
+          "raw": "{\"product\": \"SparkX Energy Drink\", \"audience\": \"students\", \"tone\": \"energetic\", \"goal\": \"awareness\", \"platform\": [\"instagram\"], \"num_headlines\": 5, \"num_long\": 3}"
+        }
+      }
+    }
+  ]
+}
